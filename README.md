@@ -1,0 +1,5 @@
+Tecnologias utilizadas:
+
+-JAVA
+- MySQL
+- 
